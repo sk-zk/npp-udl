@@ -1,4 +1,6 @@
-Notepad++ UDL syntax highlighting for ETS2 / ATS text formats:
+Notepad++ UDL syntax highlighting for text formats used in Euro Truck Simulator 2 / American Truck Simulator.
+
+Contains light mode and dark mode xmls for the following:
 
 * Unit files (.sii)
 * Material definions (.mat)
